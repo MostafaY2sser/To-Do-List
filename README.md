@@ -75,4 +75,4 @@ If you want to contribute to this project, follow these steps:
     git push origin your-feature-branch
     ```
 
-5. **Open a Pull Request** on GitHub.
+
