@@ -17,7 +17,7 @@ This is a modern and responsive web application for a Nike store. It showcases v
 ## Technologies Used
 
 - **HTML, CSS**: For structure and styling.
-- **JavaScript**: For interactive elements like the slider and checkout process.
+- **JavaScript**: For interactive elements like the slider and checkout process
 - **Google Fonts**: For custom typography.
 - **Images**: High-quality images for product presentation.
 
